@@ -1,0 +1,7 @@
+body{
+    background-image: url('./assets/weather.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}  
+/* https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079__340.jpg */

@@ -1,0 +1,75 @@
+.container2{
+    margin-top: 30px;
+    margin-left: 80px;
+    display: inline-flex;
+    border-radius: 10px;
+    opacity: .6;
+    background: black;
+    border-left: 2px solid white;
+}
+h2{color: aliceblue;
+  }
+p{
+    color: aliceblue;
+}
+
+/* .container2{
+    height: 300px;
+    width: 1080px;
+    border-radius: 10px;
+    opacity: .6;
+    
+    background: black;
+} */
+/* .sunday{
+    height: 200px;
+    width: 130px;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+}
+.monday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+}
+.tuesday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+    
+}
+.wensday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+}
+.thurday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+}
+
+.friday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-left: 2px solid white;
+}
+.saturday{
+    height: 200px;
+    width: 130px;
+    margin-top: 20px;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+} */
